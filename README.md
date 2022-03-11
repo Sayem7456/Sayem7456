@@ -1,10 +1,19 @@
+<div id="header0" align="center">
+  <img  src="https://www.linkpicture.com/q/ezgif-1-765b2628a9.gif" width="350" />
+</div>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Sayem</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayem7456&label=Profile%20views&color=a9f505&style=flat" alt="sayem7456" /> </p>
+
+<p align="center">
+     <a href="https://visitorbadge.io/status?path=sayem7456"><img src="https://api.visitorbadge.io/api/visitors?path=sayem7456&label=VISITORS%20COUNT&labelColor=%23000000&countColor=%23ff0000&style=flat" /></a>
+   
+</p>
+
 
 - 🌱 I’m currently learning **python**
 
