@@ -48,7 +48,7 @@ I specialize in turning **cutting-edge research** into real-world solutions—es
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayem-ahmed-5b21b21b5/)
-[![Gmail](https://img.shields.io/badge/-sayem7456@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sayem1.ahamed@gmail.com)
+[![Gmail](https://img.shields.io/badge/-sayem1.ahamed@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sayem1.ahamed@gmail.com)
 
 ---
 
