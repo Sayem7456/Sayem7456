@@ -1,66 +1,63 @@
-<div id="header0" align="center">
-  <img src="https://www.linkpicture.com/q/ezgif-1-765b2628a9.gif" width="350" />
+<div align="center">
+  <img src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif" width="200"/>
+  <h1>Hi, I'm Sayem 👋</h1>
+  <h3>AI Researcher | Deep Learning | LLM Developer | Future Founder</h3>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Z9mnGHAh5i6hy9yRag/giphy.gif" width="250"/>
-</div>
+---
 
-<h1 align="center">Hi 👋, I'm Sayem</h1>
-<h3 align="center">AI Researcher & Developer | Deep Learning | Medical Imaging | NLP | LLMs</h3>
-
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=sayem7456">
-    <img src="https://api.visitorbadge.io/api/visitors?path=sayem7456&label=VISITORS&labelColor=%23000000&countColor=%23ff0000&style=flat" />
-  </a>
-</p>
+🌍 I’m a **Computer Science graduate** on a mission to build powerful, responsible, and accessible AI systems.  
+I specialize in turning **cutting-edge research** into real-world solutions—especially in **healthcare**, **NLP**, and **AI-human collaboration**.
 
 ---
 
-🚀 I’m a **Computer Science graduate** from Bangladesh passionate about solving impactful problems with **AI, deep learning**, and **data-driven systems**. Currently, I’m working on:
+## 💼 My Vision
 
-- 🧠 A Q1 journal on **Multi-Modal Medical Image Classification**  
-- 🛠️ An **AI-to-Human Text Converter** using LLMs  
-- 📈 Preparing for a **research-based master’s** in data science & AI  
-- 💬 Exploring **AI agents, LangChain, and NLP pipelines**
+> To become a world-class AI researcher and founder by 2030, solving global problems with intelligent systems built at the intersection of deep learning, medicine, and human-centered design.
 
 ---
 
-### 🧑‍💻 Currently Focused On
-- 📚 LLM fine-tuning (T5, BART, Mistral, QLoRA)
-- 🏥 Deep learning in medical image analysis (MRI, X-ray, histopathology)
-- 🧠 NLP-powered rewriting tools + prompt engineering
-- ✨ Productizing AI research into real-world tools
+## 📚 Current Projects
+- 🔬 **Q1 Journal** on multi-modal medical image classification (MRI, X-ray, histopathology)
+- 🧠 **AI-to-Human Text Rewriter** using T5/BART + human-written corpus
+- 💡 Building tools that bridge the gap between LLMs and real-world usability
 
 ---
 
-### 🛠️ Tech & Tools I Use
+## 🛠 Tools I Work With
 
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 📫 Reach Me At
-
-<p align="left">
-  <a href="mailto:sayem7456@gmail.com"><img src="https://img.shields.io/badge/-sayem7456@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sayem-ahmed-5b21b21b5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sayem7456/"><img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white"/></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikit-learn)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?logo=huggingface)
+![SQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Research Interests
+- Large Language Models (LLMs) & Transformers  
+- Multi-modal learning in medical imaging  
+- AI explainability & trust in clinical settings  
+- Humanizing machine-generated language  
 
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayem-ahmed-5b21b21b5/)
+[![Gmail](https://img.shields.io/badge/-sayem7456@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sayem7456@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Sayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayem7456&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayem7456&layout=compact&theme=blue-green)
 
 ---
 
-🎯 _“Using research, code, and creativity to bring intelligent systems to life.”_
+### ✨ Core Belief:
+> “AI should serve people—not replace them. My goal is to design intelligent tools that amplify human potential.”
